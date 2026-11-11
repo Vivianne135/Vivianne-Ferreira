@@ -1,5 +1,8 @@
 # Vivianne-Ferreira
-# Olá, eu sou Vivianne Ferreira
+
+###Sou estudante do último semestre de **Bacharelado em Matemática,** com base analítica, raciocínio lógico e de resolução de problemas de negócio. Combinando uma trajetória diversificada nas áreas administrativa, escolar e de atendimento, desenvolvi uma visão prática sobre organização de processos, controle financeiro e gestão de informações.  
+
+###Em transição e consolidação na área de **Análise de Dados,** aplico minha facilidade com números para transformar dados brutos em soluções visuais e relatórios estratégicos. Minha experiência prévia no ambiente educacional e administrativo me proporciona um grande diferencial a habilidade de traduzir análises complexas em uma comunicação clara, didática e acessível para diferentes perfis de equipe e tomada de decisão. 
 
 ### 👨‍💻 Sobre mim:
 - 🎓 A estudar: Bacharelado em Matemática na Estacio de Sá
@@ -9,7 +12,7 @@
 ### 🛠️ Tecnologias e Ferramentas:
 - **Linguagens:** Noções de Python, SQL.
 - **Bancos de Dados:** SQLite
-- **Ferramentas:** Data Studio, Excel, VS Code e BI.
+- **Ferramentas:** Data Studio, Excel, VS Code e Power BI.
 
 ### 📌 Projetos em Destaque:
 - Analise de Dados em Power BI https://github.com/Vivianne135/Analise-de-Dados-em-Power-BI: Breve descrição do que o projeto faz.
